@@ -11,7 +11,7 @@ Inkspire backend for an art platform.
 - Docker support is included for easy deployment.
 
 ## Features
-- [X] Landing Page/Carousel (API support)
+- [X] Landing Page/Carousel
 - [X] Authentication (login, register, JWT)
 - [ ] Creating Custom Art (upload, stylize)
 - [ ] Theme Of The Day (daily theme API)
